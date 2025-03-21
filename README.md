@@ -16,13 +16,13 @@ A sophisticated AI agent for Dots and Boxes that combines Monte Carlo Tree Searc
 ### Training Mode
 Train the AI through self-play:
 ```bash
-python dots_and_boxes.py --mode train
+python Alpha_Zero.py --mode train
 ```
 
 ### Play Mode
 Challenge the AI:
 ```bash
-python dots_and-boxes.py --mode play
+python Alpha_Zero.py --mode play
 ```
 
 ### Key Controls
